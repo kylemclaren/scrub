@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "scrub"
+name = "scrubadubdub"
 version = "0.1.0"
 description = "A Python package to scrub PII"
 authors = ["Kyle McLaren <kylemclaren@protonmail.com>"]

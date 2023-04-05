@@ -20,12 +20,16 @@ pip install scrubadubdub
 ## Basic Usage
 
 ```python
-from scrub import Scrub
+from scrubadubdub import Scrub
 
 scrubber = Scrub()
 input_text = "My name is John Doe and my email address is john.doe@email.com, and my phone number is 123-456-7890"
 scrubbed_text = scrubber.scrub(input_text)
 print(scrubbed_text)
+```
+
+```txt
+My name is [REDACTED-NAME] and my email address is [REDACTED-EMAIL], and my phone number is [REDACTED-PHONE]
 ```
 
 <!-- ## Advanced Usage

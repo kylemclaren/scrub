@@ -2,6 +2,7 @@
 name = "scrubadubdub"
 version = "0.1.0"
 description = "A Python package to scrub PII"
+repository = "https://github.com/kylemclaren/scrub"
 authors = ["Kyle McLaren <kylemclaren@protonmail.com>"]
 license = "MIT"
 readme = "README.md"

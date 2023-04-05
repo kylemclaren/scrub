@@ -4,7 +4,7 @@ scrub is a lightweight, extensible Python package designed to remove Personally 
 
 ## Installation
 
-Install the latest version of scrub from [PyPI](https://pypi.org/project/scrub/):
+Install the latest version of scrub from [PyPI](https://pypi.org/project/scrubadubdub/):
 
 ```bash
 pip install scrubadubdub

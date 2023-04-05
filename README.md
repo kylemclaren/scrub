@@ -1,4 +1,4 @@
-# scrub - PII Scrubbing Python Package
+# 🫧 scrub - PII Scrubbing Python Package 🫧
 
 scrub is a lightweight, extensible Python package designed to remove Personally Identifiable Information (PII) from any text input. It leverages advanced Machine Learning algorithms to detect PII and provides multiple levels of scrubbing to ensure optimal anonymization of sensitive information. safeguarding user privacy.
 
@@ -7,7 +7,7 @@ scrub is a lightweight, extensible Python package designed to remove Personally 
 Install the latest version of scrub from [PyPI](https://pypi.org/project/scrub/):
 
 ```bash
-pip install scrub
+pip install scrubadubdub
 ```
 
 ## Key Features

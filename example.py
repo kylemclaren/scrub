@@ -1,4 +1,4 @@
-from scrub import Scrub
+from scrubadubdub import Scrub
 
 
 def main():

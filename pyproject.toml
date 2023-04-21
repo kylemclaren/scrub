@@ -8,7 +8,15 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.6"
+python = ">=3.9,<3.11"
+halo = "^0.0.31"
+numpy = "^1.24.2"
+spacy = "^3.5.1"
+ipaddress = "^1.0.23"
+phonenumbers = "^8.13.8"
+
+[tool.poetry.scripts]
+scrubadubdub = "scrubadubdub.cli:main"
 
 
 [build-system]
